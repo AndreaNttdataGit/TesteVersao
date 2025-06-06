@@ -1,1 +1,1 @@
-OLá bem vindo ao mundo TEC.
+OLá bem vindo ao mundo TEC.🐦‍🔥🐦‍🔥🐦‍🔥🐦‍🔥
