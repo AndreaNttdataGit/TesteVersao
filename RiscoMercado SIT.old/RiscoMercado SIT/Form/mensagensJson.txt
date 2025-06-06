@@ -1,0 +1,471 @@
+﻿[{
+	"Codigo": 1,
+	"TextoMensagem": "Confirma a ação?",
+	"Tipo": 3
+},
+{
+	"Codigo": 2,
+	"TextoMensagem": "Erro ao buscar registros.",
+	"Tipo": 4
+},
+{
+	"Codigo": 3,
+	"TextoMensagem": "Campos obrigatórios não preenchidos.",
+	"Tipo": 2
+},
+{
+	"Codigo": 5,
+	"TextoMensagem": "Conexão estabelecida com sucesso.",
+	"Tipo": 1
+},
+{
+	"Codigo": 6,
+	"TextoMensagem": "Não foi possível estabelecer conexão com o banco de dados.",
+	"Tipo": 4
+},
+{
+	"Codigo": 7,
+	"TextoMensagem": "Erro ao tentar gerar o arquivo.",
+	"Tipo": 4
+},
+{
+	"Codigo": 8,
+	"TextoMensagem": "Sua sessão expirou!",
+	"Tipo": 2
+},
+{
+	"Codigo": 9,
+	"TextoMensagem": "Nenhuma informação encontrada para o filtro selecionado.",
+	"Tipo": 2
+},
+{
+	"Codigo": 10,
+	"TextoMensagem": "Mensagem não cadastrada. Contate o administrador do sistema.",
+	"Tipo": 4
+},
+{
+	"Codigo": 11,
+	"TextoMensagem": "Exclusão não permitida.",
+	"Tipo": 4
+},
+{
+	"Codigo": 12,
+	"TextoMensagem": "Erro interno. Contate o administrador do sistema.",
+	"Tipo": 4
+},
+{
+	"Codigo": 13,
+	"TextoMensagem": "Campo de preenchimento obrigatório.",
+	"Tipo": 2
+},
+{
+	"Codigo": 14,
+	"TextoMensagem": "Senha inválida.",
+	"Tipo": 2
+},
+{
+	"Codigo": 15,
+	"TextoMensagem": "Usuário não cadastrado.",
+	"Tipo": 2
+},
+{
+	"Codigo": 16,
+	"TextoMensagem": "Erro ao autenticar usuário.",
+	"Tipo": 4
+},
+{
+	"Codigo": 17,
+	"TextoMensagem": "Falta preenchimento.",
+	"Tipo": 2
+},
+{
+	"Codigo": 18,
+	"TextoMensagem": "Não existe nenhum item selecionado.",
+	"Tipo": 1
+},
+{
+	"Codigo": 19,
+	"TextoMensagem": "Data início não pode ser maior que data fim",
+	"Tipo": 4
+},
+{
+	"Codigo": 20,
+	"TextoMensagem": "CPF ou CNPJ inválido.",
+	"Tipo": 4
+},
+{
+	"Codigo": 21,
+	"TextoMensagem": "Arquivo não foi encontrado",
+	"Tipo": 1
+},
+{
+	"Codigo": 22,
+	"TextoMensagem": "Registro associado a outra entidade, não pode ser excluido.",
+	"Tipo": 4
+},
+{
+	"Codigo": 23,
+	"TextoMensagem": "Operação efetuada com sucesso",
+	"Tipo": 1
+},
+{
+	"Codigo": 24,
+	"TextoMensagem": "Preenchimento incorreto de campos",
+	"Tipo": 4
+},
+{
+	"Codigo": 25,
+	"TextoMensagem": "Campo sem informação.",
+	"Tipo": 2
+},
+{
+	"Codigo": 26,
+	"TextoMensagem": "Data inválida",
+	"Tipo": 2
+},
+{
+	"Codigo": 27,
+	"TextoMensagem": "Confirma o cancelamento do processo?",
+	"Tipo": 3
+},
+{
+	"Codigo": 28,
+	"TextoMensagem": "Confirma a exclusão do registro?",
+	"Tipo": 3
+},
+{
+	"Codigo": 29,
+	"TextoMensagem": "Não existe dados selecionados para alteração.",
+	"Tipo": 2
+},
+{
+	"Codigo": 30,
+	"TextoMensagem": "Dado não encontrado.",
+	"Tipo": 3
+},
+{
+	"Codigo": 31,
+	"TextoMensagem": "Erro ao tentar atualizar o banco de dados.",
+	"Tipo": 4
+},
+{
+	"Codigo": 32,
+	"TextoMensagem": "Registro já existente.",
+	"Tipo": 2
+},
+{
+	"Codigo": 33,
+	"TextoMensagem": "Não é possivel excluir esse registro,ele já foi utilizado pelo sistema.",
+	"Tipo": 2
+},
+{
+	"Codigo": 34,
+	"TextoMensagem": "Entidade não pode ser nula.",
+	"Tipo": 4
+},
+{
+	"Codigo": 35,
+	"TextoMensagem": "O log do sistema não está corretamente configurado.",
+	"Tipo": 4
+},
+{
+	"Codigo": 36,
+	"TextoMensagem": "O Menu não pode ser excluido, pois existe(s) dependente(s).",
+	"Tipo": 2
+},
+{
+	"Codigo": 37,
+	"TextoMensagem": "Não é permitido o cadastro de valor menor que 0.",
+	"Tipo": 4
+},
+{
+	"Codigo": 38,
+	"TextoMensagem": "Já existe uma associação Padrão para Operação com este pré-requisito. Deseja substituir?",
+	"Tipo": 3
+},
+{
+	"Codigo": 39,
+	"TextoMensagem": "Exclusão não permitida. Será necessário alterar a associação Padrão para Operação com este pré-requisito.",
+	"Tipo": 4
+},
+{
+	"Codigo": 40,
+	"TextoMensagem": "Não é permitida a inclusão de uma associção com mesmo pré-requisito e tipo exposição.",
+	"Tipo": 4
+},
+{
+	"Codigo": 41,
+	"TextoMensagem": "É necessário possuir ao menos uma associação Padrão para Operação com o pré-requisito selecionado.",
+	"Tipo": 2
+},
+{
+	"Codigo": 42,
+	"TextoMensagem": "Existe mais de um registro Padrão para Operação com este pré-requisito.",
+	"Tipo": 4
+},
+{
+	"Codigo": 43,
+	"TextoMensagem": "Não foi possível identificar o Processamento selecionado.",
+	"Tipo": 4
+},
+{
+	"Codigo": 44,
+	"TextoMensagem": "Não há operações na data escolhida: {0}.",
+	"Tipo": 2
+},
+{
+	"Codigo": 45,
+	"TextoMensagem": "Não há processamento com a chave selecionada.",
+	"Tipo": 2
+},
+{
+	"Codigo": 46,
+	"TextoMensagem": "Campos obrigatórios do filtro não foram preenchidos.",
+	"Tipo": 4
+},
+{
+	"Codigo": 47,
+	"TextoMensagem": "Processamento em andamento.",
+	"Tipo": 4
+},
+{
+	"Codigo": 48,
+	"TextoMensagem": "PJur1 Carregado.",
+	"Tipo": 4
+},
+{
+	"Codigo": 49,
+	"TextoMensagem": "PJur234 Carregado.",
+	"Tipo": 4
+},
+{
+	"Codigo": 50,
+	"TextoMensagem": "PACS Carregado.",
+	"Tipo": 4
+},
+{
+	"Codigo": 51,
+	"TextoMensagem": "CAM Carregado.",
+	"Tipo": 4
+},
+{
+	"Codigo": 52,
+	"TextoMensagem": "COM Carregado.",
+	"Tipo": 4
+},
+{
+	"Codigo": 53,
+	"TextoMensagem": "Carregando Parcelas.",
+	"Tipo": 4
+},
+{
+	"Codigo": 54,
+	"TextoMensagem": "Parcelas canceladas com sucesso.",
+	"Tipo": 4
+},
+{
+	"Codigo": 55,
+	"TextoMensagem": "Já existe registro cadastrado para o nome informado.",
+	"Tipo": 4
+},
+{
+	"Codigo": 56,
+	"TextoMensagem": "Objeto composto possui Instância associada.",
+	"Tipo": 4
+},
+{
+	"Codigo": 57,
+	"TextoMensagem": "Não é permitido remover atributos de um objeto composto com instância associada.",
+	"Tipo": 4
+},
+{
+	"Codigo": 58,
+	"TextoMensagem": "É necessário associar ao menos um atributo para o cadastro de objeto composto.",
+	"Tipo": 2
+},
+{
+	"Codigo": 59,
+	"TextoMensagem": "Parâmetro clonado com sucesso.",
+	"Tipo": 1
+},
+{
+	"Codigo": 60,
+	"TextoMensagem": "Cancele ou aguarde o processamento já em andamento para a data de alocação : {0}",
+	"Tipo": 4
+},
+{
+	"Codigo": 61,
+	"TextoMensagem": "Registro não encontrado",
+	"Tipo": 4
+},
+{
+	"Codigo": 62,
+	"TextoMensagem": "Não existem registros de ControleGeracaoRemessa para a data e Consolidado.",
+	"Tipo": 4
+},
+{
+	"Codigo": 63,
+	"TextoMensagem": "Operação não permitida no status atual.",
+	"Tipo": 4
+},
+{
+	"Codigo": 64,
+	"TextoMensagem": "Processamento não permitido. Etapa já encerrada.",
+	"Tipo": 4
+},
+{
+	"Codigo": 65,
+	"TextoMensagem": "Existem etapas já encerradas para a Data de Referência selecionada.",
+	"Tipo": 4
+},
+{
+	"Codigo": 66,
+	"TextoMensagem":"Exposição mínima tem que ser menor que exposição máxima.",
+	"Tipo": 4
+},
+{
+	"Codigo": 67,
+	"TextoMensagem":"Exposição máxima tem que ser maior que exposição mínima.",
+	"Tipo": 4
+},
+{
+	"Codigo": 68,
+	"TextoMensagem": "Não é permitido o cadastro de uma Associação Arquivo/Série sem Regra.",
+	"Tipo": 4
+},
+{
+	"Codigo": 69,
+	"TextoMensagem": "Existem Tags obrigatórias não selecionadas.",
+	"Tipo": 4
+},
+{
+	"Codigo": 70,
+	"TextoMensagem": "É necessário selecionar uma Série ou Indicador Associação Gênérica.",
+	"Tipo": 4
+},
+{
+	"Codigo": 71,
+	"TextoMensagem": "Não é possível alterar items não vigentes.",
+	"Tipo": 4
+},
+{
+	"Codigo": 72,
+	"TextoMensagem": "Não é possível cadastrar um consolidado sem instituição associada.",
+	"Tipo": 4
+},
+{
+	"Codigo": 73,
+	"TextoMensagem": "Deve existir ao menos uma instituição Líder.",
+	"Tipo": 4
+},
+{
+	"Codigo": 74,
+	"TextoMensagem": "Ação inválida. Já existe uma instituição Líder cadastrada.",
+	"Tipo": 4
+},
+{
+	"Codigo": 75,
+	"TextoMensagem": "Não é possível alterar uma estrutura sem o Vértice Risco 1 dia.",
+	"Tipo": 4
+},
+{
+	"Codigo": 76,
+	"TextoMensagem": "Ação inválida. Não é possível executar a consulta com um período maior que 1 ano.",
+	"Tipo": 4
+},
+{
+	"Codigo": 77,
+	"TextoMensagem": "Não é possível reabrir a etapa. Existem etapas posteriores encerradas.",
+	"Tipo": 4
+},
+{
+	"Codigo": 78,
+	"TextoMensagem": "Não é possível encerrar a etapa. Existem etapas anteriores abertas/reabertas.",
+	"Tipo": 4
+},
+{
+	"Codigo": 79,
+	"TextoMensagem": "O arquivo gerado possui erros de validação. Favor verificar na pasta de geração de documentos.",
+	"Tipo": 4
+},
+{
+	"Codigo": 80,
+	"TextoMensagem": "Não é possível alterar para o Tipo Referência selecionado, pois existe uma Curva Fonte associada.",
+	"Tipo": 4
+},
+{
+	"Codigo": 81,
+	"TextoMensagem": "Soma das exposições mínimas não pode ser maior que 100%.",
+	"Tipo": 4
+},
+{
+	"Codigo": 82,
+	"TextoMensagem": "Não é possível remover todas as regras, use o botão de Excluir.",
+	"Tipo": 2
+},
+{
+	"Codigo": 83,
+	"TextoMensagem": "Falta preencher a Instituição e a Data-base.",
+	"Tipo": 4
+},
+{
+	"Codigo": 84,
+	"TextoMensagem": "Falta preencher a Instituição.",
+	"Tipo": 4
+},
+{
+	"Codigo": 85,
+	"TextoMensagem": "Falta preencher a Data-base.",
+	"Tipo": 4
+},
+{
+	"Codigo": 86,
+	"TextoMensagem": "Cnpj da Instituição inválido.",
+	"Tipo": 4
+},
+{
+	"Codigo": 87,
+	"TextoMensagem": "Data-base inválida.",
+	"Tipo": 4
+},
+{
+	"Codigo": 88,
+	"TextoMensagem": "A coluna Ordem deve ser preenchida com ASC ou DESC.",
+	"Tipo": 4
+},
+{
+	"Codigo": 89,
+	"TextoMensagem": "Ação não permitida. A validação deve ser realizada por um usuário diferente daquele que executou o processamento.",
+	"Tipo": 4
+},
+{
+	"Codigo": 90,
+	"TextoMensagem": "Falta preencher o motivo.",
+	"Tipo": 4
+},
+{
+	"Codigo": 91,
+	"TextoMensagem": "Arquivo enviado com sucesso",
+	"Tipo": 1
+},
+{
+	"Codigo": 92,
+	"TextoMensagem": "Não foi possível inserir o registro solicitado. Já existe um registro vigente para a data de início selecionada.",
+	"Tipo": 4
+},
+{
+	"Codigo": 93,
+	"TextoMensagem": "Operação não permitida pois existem processamentos com data posterior ou igual à esta data de início de vigência.",
+	"Tipo": 4
+},
+{
+	"Codigo": 94,
+	"TextoMensagem": "Não é possível incluir um novo arquivo com data de início de vigência menor ou igual a última data onde a etapa de recebimento de arquivo já esteja encerrada.",
+	"Tipo": 2
+},
+{
+	"Codigo": 95,
+	"TextoMensagem": "Não é possível limpar a etapa. A etapa selecionada ou etapas posteriores estão encerradas.",
+	"Tipo": 2
+}
+]
